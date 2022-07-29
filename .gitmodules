@@ -1,0 +1,3 @@
+[submodule "c-semantics"]
+	path = c-semantics
+	url = git@github.com:runtimeverification/c-semantics.git
